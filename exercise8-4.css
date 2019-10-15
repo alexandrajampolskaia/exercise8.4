@@ -1,0 +1,56 @@
+table{
+    width: 450px;
+    height: 220px;
+    font-size: 20px
+  }
+  
+  .rubrik1, .rubrik4{
+    text-align: center;
+  }
+  .rubrik2, .rubrik3{
+    text-align: left;
+  }
+  
+  th{
+    border: 2px dashed #9A3401;
+    background-color: #E8CB71; 
+    vertical-align: bottom;
+  
+  }
+  
+  
+  
+  .idrottare{
+    text-align: left;
+  }
+  .resultat{
+    text-align:left;
+  }
+  
+  .placering1, .placering2, .placering3, .placering {
+    text-align:center;
+  }
+  
+  .placering1{
+    background-color: #ECC31D;
+  }
+  .placering2{
+    background-color: lightgrey;
+  }
+  .placering3{
+    background-color: #937A13;
+  }
+  .land{
+    text-align:right;
+  }
+  
+  table {
+    border: 2px solid grey;
+    background-color: #E8F8B6;
+  }
+  
+  td {
+    border: 2px dotted grey
+  }
+  
+  
